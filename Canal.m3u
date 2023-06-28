@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 ,Canal Caracol
+http://172.16.200.2:8081/wilcomp_colombia/canal_caracol_colombia/playlist.m3u8
+#EXTINF:-1 ,Canal RCN
+http://172.16.200.2:8081/wilcomp_colombia/canal_rcn_colombia/playlist.m3u8
+#EXTINF:-1 ,Canal Institucional
+http://172.16.200.2:8081/wilcomp_colombia/canal_institucional/playlist.m3u8
+#EXTINF:-1 ,Canal 1
+http://172.16.200.2:8081/wilcomp_colombia/canal_1/playlist.m3u8
+#EXTINF:-1 ,Senal Colombia
+http://172.16.200.2:8081/wilcomp_colombia/canal_senal_colombia/playlist.m3u8
+#EXTINF:-1 ,Tele Antioquia
+http://172.16.200.2:8081/wilcomp_colombia/canal_tele_antioquia/playlist.m3u8
+#EXTINF:-1 ,Tele Pacifico
+http://172.16.200.2:8081/wilcomp_colombia/canal_tele_pacifico/playlist.m3u8
+#EXTINF:-1 ,Tele Cafe
+http://172.16.200.2:8081/wilcomp_colombia/canal_tele_cafe/playlist.m3u8
+#EXTINF:-1 ,Canal Capital
+http://172.16.200.2:8081/wilcomp_colombia/canal_capital_colombia/playlist.m3u8
+#EXTINF:-1 ,Telepetroleo
+http://172.16.200.2:8081/wilcomp_colombia/canal_telepetroleo/playlist.m3u8
+#EXTINF:-1 ,TRO
+http://172.16.200.2:8081/wilcomp_colombia/canal_tro/playlist.m3u8
+#EXTINF:-1 ,TeleCaribe
+http://172.16.200.2:8081/wilcomp_colombia/canal_telecaribe/playlist.m3u8
+#EXTINF:-1 ,UCL
+http://172.16.200.2:8081/wilcomp_colombia/canal_ucl/playlist.m3u8
+#EXTINF:-1 ,Pasiones
+http://172.16.200.2:8081/wilcomp_colombia/canal_pasiones/playlist.m3u8
+#EXTINF:-1 ,Antena 3
+http://172.16.200.2:8081/wilcomp_colombia/canal_antena_3/playlist.m3u8
+#EXTINF:-1 ,dw
+http://172.16.200.2:8081/wilcomp_colombia/canal_dw/playlist.m3u8
+#EXTINF:-1 ,Nat Geo
+http://172.16.200.2:8081/wilcomp_colombia/canal_natgeo/playlist.m3u8
+#EXTINF:-1 ,Turistik Mexico
+http://172.16.200.2:8081/wilcomp_colombia/canal_turistik/playlist.m3u8
+#EXTINF:-1 ,Telemundo
+http://172.16.200.2:8081/wilcomp_colombia/canal_telemundo/playlist.m3u8
+#EXTINF:-1 ,ESPN
+http://172.16.200.2:8081/wilcomp_colombia/canal_espn/playlist.m3u8
+#EXTINF:-1 ,ESPN 2
+http://172.16.200.2:8081/wilcomp_colombia/canal_espn_2/playlist.m3u8
+#EXTINF:-1 ,Fox Sports
+http://172.16.200.2:8081/wilcomp_colombia/canal_fox_sports_2/playlist.m3u8
+#EXTINF:-1 ,Moto Adv
+http://172.16.200.2:8081/wilcomp_colombia/canal_moto_adv/playlist.m3u8
+#EXTINF:-1 ,ZooMoo
+http://172.16.200.2:8081/wilcomp_colombia/canal_zoomoo/playlist.m3u8
+#EXTINF:-1 ,Fix And Foxy
+http://172.16.200.2:8081/wilcomp_colombia/canal_fix_and_foxi/playlist.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://172.16.200.2:8081/wilcomp_colombia/canal_nickelodeon/playlist.m3u8
+#EXTINF:-1 ,Nick Jr
+http://172.16.200.2:8081/wilcomp_colombia/canal_nick_jr/playlist.m3u8
+#EXTINF:-1 ,Dreiko TV
+http://172.16.200.2:8081/wilcomp_colombia/canal_dreiko_tv/playlist.m3u8
+#EXTINF:-1 ,Studio Universal
+http://172.16.200.2:8081/wilcomp_colombia/canal_studio_universal/playlist.m3u8
+#EXTINF:-1 ,Multicinema
+http://172.16.200.2:8081/wilcomp_colombia/canal_multicinema/playlist.m3u8
+#EXTINF:-1 ,FX
+http://172.16.200.2:8081/wilcomp_colombia/canal_fx/playlist.m3u8
+#EXTINF:-1 ,Cine Latino
+http://172.16.200.2:8081/wilcomp_colombia/canal_cine_latino/playlist.m3u8
+#EXTINF:-1 ,Multipremier
+http://172.16.200.2:8081/wilcomp_colombia/canal_multipremier/playlist.m3u8
+#EXTINF:-1 ,Universal Chanel
+http://172.16.200.2:8081/wilcomp_colombia/canal_universal/playlist.m3u8
+#EXTINF:-1 ,A3 Cine
+http://172.16.200.2:8081/wilcomp_colombia/canal_a3_cine/playlist.m3u8
+#EXTINF:-1 ,Star Chanel
+http://172.16.200.2:8081/wilcomp_colombia/canal_star_channel/playlist.m3u8
+#EXTINF:-1 ,Maria Vision
+http://172.16.200.2:8081/wilcomp_colombia/canal_mariavision/playlist.m3u8
+#EXTINF:-1 ,Aliento Vision
+http://172.16.200.2:8081/wilcomp_colombia/canal_alientovision/playlist.m3u8
+#EXTINF:-1 ,EWTN
+http://172.16.200.2:8081/wilcomp_colombia/canal_ewtn/playlist.m3u8
+#EXTINF:-1 ,La Kalle
+http://172.16.200.2:8081/wilcomp_colombia/canal_la_kalle/playlist.m3u8
+#EXTINF:-1 ,Tropical Moon
+http://172.16.200.2:8081/wilcomp_colombia/canal_tropical_moon/playlist.m3u8
+#EXTINF:-1 ,Top Latino
+http://172.16.200.2:8081/wilcomp_colombia/canal_top_latino/playlist.m3u8
+#EXTINF:-1 ,ZUT
+http://172.16.200.2:8081/wilcomp_colombia/canal_zut/playlist.m3u8
+#EXTINF:-1 ,RetroPlus1
+http://172.16.200.2:8081/wilcomp_colombia/canal_retroplus_1/playlist.m3u8
+#EXTINF:-1 ,RetroPlus2
+http://172.16.200.2:8081/wilcomp_colombia/canal_retroplus_2/playlist.m3u8
+#EXTINF:-1 ,La Despechada
+http://172.16.200.2:8081/wilcomp_colombia/canal_la_despechada/playlist.m3u8
+#EXTINF:-1 ,Somos Cultura
+http://172.16.200.2:8081/wilcomp_colombia/canal_somos_cultura/playlist.m3u8
+#EXTINF:-1 ,Urban Tv
+http://172.16.200.2:8081/wilcomp_colombia/canal_urban_tv/playlist.m3u8
+#EXTINF:-1 ,Ranchenato
+http://172.16.200.2:8081/wilcomp_colombia/canal_ranchenato/playlist.m3u8
